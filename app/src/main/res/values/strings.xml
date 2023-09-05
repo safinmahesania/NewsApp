@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="app">App</string>
+    <string name="news">News</string>
+    <string name="exit">Exit</string>
+    <string name="register">Register</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="logo">Logo</string>
+    <string name="my_news">My News</string>
+    <string name="all_news">All News</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="headline">Headline</string>
+    <string name="description">Description</string>
+    <string name="update">Update</string>
+    <string name="post">Post</string>
+    <string name="already_have_a_account">Already have a Account</string>
+    <string name="dont_have_a_account">Don\'t have a Account</string>
+</resources>
